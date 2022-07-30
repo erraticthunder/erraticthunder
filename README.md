@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development From UpGrad as a part of Master's in computer science program.
 - 💞️ I’m looking to collaborate on various new technologies and projects.
 - 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/erraticthunder/
+- Open this link for more details https://linktr.ee/erraticthunder
 - I love working on AWS. Learning more and more about it.
 
 <!---
